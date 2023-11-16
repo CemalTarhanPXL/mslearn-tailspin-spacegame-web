@@ -13,4 +13,4 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-- bash: "hello world"
+- bash: " "
